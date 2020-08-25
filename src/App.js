@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Bones App</h2>
-        <h2>Testing from Digital Ocean 1.0</h2>
+        <h2>Testing from Digital Ocean 1.1</h2>
       </header>
     </div>
   );
