@@ -42,4 +42,5 @@ jobs:
         envs: GITHUB_USERNAME, GITHUB_TOKEN
         script: |
           whoami
-          git --v
+          git --version
+          docker ps
