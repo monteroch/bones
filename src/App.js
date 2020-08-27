@@ -10,8 +10,6 @@ function App() {
         <h2>Bones App</h2>
         <h2>Testing from Digital Ocean 1.2</h2>
         <h2>Testing deployment from DO</h2>
-        <h2>Testing on pull request from featureA 2.0</h2>
-        <h3>Digital Ocean works</h3>
       </header>
     </div>
   );
