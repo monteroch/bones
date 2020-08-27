@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Bones App</h2>
         <h2>Testing from Digital Ocean 1.2</h2>
+        <h2>Testing deployment from DO</h2>
       </header>
     </div>
   );
