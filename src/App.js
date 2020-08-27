@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Bones App</h2>
         <h2>Testing on pull request from featureA 2.0</h2>
+        <h3>Testing deployment in Digital Ocean</h3>
       </header>
     </div>
   );
